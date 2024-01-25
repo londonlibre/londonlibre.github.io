@@ -1,28 +1,41 @@
-{
-  "people": [
-    {
-      "id": 1,
-      "name": "automated test",
-      "age": 30,
-      "email": "john.doe@example.com",
-      "address": {
-        "street": "123 Main Street",
-        "city": "Anytown",
-        "state": "CA",
-        "zip": "12345"
-      }
-    },
-    {
-      "id": 2,
-      "name": "Jane Smith",
-      "age": 28,
-      "email": "jane.smith@example.com",
-      "address": {
-        "street": "456 Oak Avenue",
-        "city": "Sometown",
-        "state": "NY",
-        "zip": "54321"
-      }
-    }
-  ]
-}
+[
+  {
+    "id": 0,
+    "title_input": "f",
+    "description_input": "",
+    "category_input": "",
+    "demographics_input": "",
+    "address_input": "",
+    "postcode_input": "",
+    "occurrence_input": "",
+    "opentimes_input": "",
+    "image_input": "",
+    "website_input": ""
+  },
+  {
+    "id": 1,
+    "title": "Grant Museum of Zoology",
+    "description": "The Grant Museum of Zoology is a zoology museum located in London, United Kingdom. It is part of University College London (UCL) and is known for its extensive collection of zoological specimens.",
+    "category": "Museum",
+    "demographics": "All",
+    "address": "21 University Street",
+    "postcode": "WC1E 6DE",
+    "occurrence": "The museum is temporarily closed for an improvement programme, reopening on Tuesday 6 February 2024.",
+    "opentimes": "The museum is temporarily closed for an improvement programme, reopening on Tuesday 6 February 2024.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/98/Grant_Museum_of_Zoology_%2820544420888%29.jpg",
+    "website": "https://www.ucl.ac.uk/culture/grant-museum-zoology"
+  },
+  {
+    "id": 2,
+    "title": "Imperial War Museum",
+    "description": " The IWM is dedicated to documenting and showcasing the impact of modern conflict on individuals and societies. ",
+    "category": "Museum",
+    "demographics": "All",
+    "address": "Lambeth Rd, London",
+    "postcode": "SE1 6HZ",
+    "occurrence": "Perpetual",
+    "opentimes": "10\u202fam\u20136\u202fpm",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Imperial_War_Museum_London_1.jpg/800px-Imperial_War_Museum_London_1.jpg?20210307125954",
+    "website": "https://www.iwm.org.uk/visits/iwm-london"
+  }
+]
