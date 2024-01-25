@@ -2,7 +2,7 @@
   "people": [
     {
       "id": 1,
-      "name": "John Doe",
+      "name": "automated test",
       "age": 30,
       "email": "john.doe@example.com",
       "address": {
