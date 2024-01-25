@@ -37,5 +37,18 @@
     "opentimes": "10\u202fam\u20136\u202fpm",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Imperial_War_Museum_London_1.jpg/800px-Imperial_War_Museum_London_1.jpg?20210307125954",
     "website": "https://www.iwm.org.uk/visits/iwm-london"
+  },
+  {
+    "id": 3,
+    "title": "Victorian Dinosaur Statues  - Crystal Palace Park",
+    "description": "The Crystal Palace Park in London, England, is known for its historic Victorian Dinosaur Statues. These life-sized sculptures were commissioned by Sir Richard Owen and were unveiled in 1854. The Crystal Palace, a large glass and iron structure, was originally built in Hyde Park to house the Great Exhibition of 1851. After the exhibition, it was moved to Sydenham and became the centerpiece of Crystal Palace Park.",
+    "category": "Parks",
+    "demographics": "All ",
+    "address": "Thicket Road",
+    "postcode": "SE19 2GA",
+    "occurrence": "Perpetual",
+    "opentimes": "7.30AM - 5PM",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/Dinosaurs_at_Crystal_Palace_Park_-_geograph.org.uk_-_49600.jpg",
+    "website": "https://cpdinosaurs.org/visit/what-are-crystal-palace-dinosaurs/"
   }
 ]
